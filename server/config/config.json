@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "tamim98749874",
+    "database": "node_starter",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
